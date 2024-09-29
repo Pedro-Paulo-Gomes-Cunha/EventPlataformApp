@@ -1,0 +1,125 @@
+//User Creation//
+
+{
+        "fullName": "Pedro Cunha",
+        "mobile": 8799164345,
+        "email": "cunha@gmail.com",
+        "password": "secret",
+		"cardNo":"111111",
+        "role":"Agent"
+}
+
+{
+        "fullName": "Gomes Cunha",
+        "mobile": 8799164346,
+        "email": "jeffbezos@gmail.com",
+        "password": "secret",
+		"cardNo":"222222",
+        "role":"Agent"
+}
+
+{
+        "fullName": "DJ Kila",
+        "mobile": 8799164326,
+        "email": "djhillary@gmail.com",
+        "password": "secret",
+		"cardNo":"333333",
+        "role":"Agent"
+}
+
+{
+        "fullName": "Admin User",
+        "mobile": 8799164347,
+        "email": "adminuser@gmail.com",
+        "password": "secret",
+        "role":"Admin"
+}
+
+{
+        "fullName": "Anil Junior",
+        "mobile": 8799164348,
+        "email": "anil@gmail.com",
+        "password": "secret",
+        "role":"Customer"
+}
+
+
+//Event Creation//
+	
+{
+  
+	"eventName":"Karoke Night",
+    "eventDate":"2 October 2020",
+    "eventTime":"9 PM to 11.55PM",
+    "eventType":"Cultural",
+    "eventPlace":"Bangalore",
+    "eventAddress":"No Limitz, MG Road",
+    "ticketCost":"500",
+    "maxParticipants":"50"
+}
+
+{
+    
+	"eventName":"DJ Friday cool",
+    "eventDate":"29 October 2020",
+    "eventTime":"6 PM to 10 PM",
+    "eventType":"Party",
+    "eventPlace":"Bangalore",
+    "eventAddress":"Social, MG Road",
+    "ticketCost":"4500",
+    "maxParticipants":"150"
+}
+
+{
+    
+	"eventName":"Come Laugh Leave Friday",
+    "eventDate":"1 November 2020",
+    "eventTime":"4 PM to 6 PM",
+    "eventType":"Standup",
+    "eventPlace":"Bangalore",
+    "eventAddress":"Gillyz, Koramangala",
+    "ticketCost":"1500",
+    "maxParticipants":"200"
+}
+
+{
+	"eventName":"Food Fest with fast food",
+    "eventDate":"9 April 2019",
+    "eventTime":"10 AM to 6 PM",
+    "eventType":"Fest",
+    "eventPlace":"Christ Ground,Bangalore",
+    "ticketCost":"200",
+    "maxParticipants":"2000"
+}
+
+{
+	"eventName":"Sit Back and Code",
+    "eventDate":"30 October 2020",
+    "eventTime":"9 AM to 11 PM",
+    "eventType":"Technical Event",
+    "eventPlace":"Bangalore",
+    "eventAddress":"Inc ltd,Indira Nagar",
+    "ticketCost":"200",
+    "maxParticipants":"100",
+}
+
+{
+	"eventName":"Sit Back and Code Round 2",
+    "eventDate":"30 November 2020",
+    "eventTime":"9 AM to 11 PM",
+    "eventType":"Technical Event",
+    "eventPlace":"Bangalore",
+    "eventAddress":"Inc ltd,Indira Nagar",
+    "ticketCost":"200",
+    "maxParticipants":"100",
+}
+
+ 
+ "event":"5f673007c8a48e0a149a226c",
+ "registrationDate":"20 July 2020",
+ "registrationType":"Self",
+ "noOfTickets":2,
+ "registrationName":"PinkyJ"
+ 
+
+5ed2146622a65a2c6483c8bd
